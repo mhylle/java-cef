@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/binary_distrib/win64/bin/jogl-all-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/binary_distrib/win64/bin/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/binary_distrib/win64/bin/jcef.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/binary_distrib/win64/bin/jcef-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/binary_distrib/win64/bin/gluegen-rt-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/binary_distrib/win64/bin/jogl-all.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

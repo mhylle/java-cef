@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="win64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/out/win64/jcef-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/out/win64/jcef.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
